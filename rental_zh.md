@@ -20,8 +20,8 @@
 
 ## 租赁协议<sup>[出处](https://www.alberta.ca/starting-a-tenancy)</sup>
 
-> [!IMPORTANT]
-> ***请注意：租赁协议中任何剥夺或放弃 RTA 中规定的租户权利的内容都是无效的。***
+
+:exclamation:***请注意：租赁协议中任何剥夺或放弃 RTA 中规定的租户权利的内容都是无效的。***
 
 ### 类型
 
@@ -35,8 +35,7 @@
 
     存在开始日期，但不存在结束日期的协议。一般多见于 Apartment 。
 
-> [!NOTE]
-> 此外，要注意的是，也存在最开始为定期协议，到期后转为周期协议的混合协议。
+:information_source: 此外，要注意的是，也存在最开始为定期协议，到期后转为周期协议的混合协议。 
 
 ### 内容
 
@@ -87,9 +86,7 @@
 
 要查找房产所有权，最简单可靠的方法是结合 [Edmonton Maps](https://maps.edmonton.ca/) 和 [Alberta Land Titles and Surveys Spatial Information System (Spin2)](https://alta.registries.gov.ab.ca/) 来完成查询。[Spin2](https://alta.registries.gov.ab.ca/) 的每次查询费用为 10 CAD。
 
-
-> [!NOTE]
-> *[Spin2](https://alta.registries.gov.ab.ca/) 系统是存在工作时间的 (虽然我也不清楚为什么一个自动化系统会有工作时间lmao)*
+*注意：[Spin2](https://alta.registries.gov.ab.ca/) 系统是存在工作时间的 (虽然我也不清楚为什么一个自动化系统会有工作时间lmao)*
 
 ### 如何查询？
 1.  确认房产的地址
