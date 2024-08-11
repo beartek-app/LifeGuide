@@ -1,11 +1,8 @@
 # 租房指南
 更新于 Aug 11 2024
 
-
 ## 简介
 在 Alberta ，多数房屋租赁是适用且受到 [Residential Tenancies Act (RTA)](https://open.alberta.ca/publications/r17p1) 保护的。本指南将侧重于受 RTA 保护的情况。
-
-
 
 一般来说， RTA 不适用于以下类型的租赁<sup>[出处](https://www.alberta.ca/information-for-landlords-and-tenants)</sup>：
 
@@ -18,10 +15,18 @@
 
 具体信息请参照 [**RTA 适用的租赁类型**](https://www.servicealberta.ca/pdf/rtdrs/RTA_Applicability_to_Accommodations.pdf)
 
-## 租赁协议<sup>[出处](https://www.alberta.ca/starting-a-tenancy)</sup>
+## 目录
+- [租赁协议](#租赁协议)
+    - [类型](#类型)
+    - [内容](#内容)
+    - [损坏押金](#损坏押金)
+    - [转移](#转移)
+    - [租金上涨](#租金上涨)
+- [房东信息](#房东信息)
+    - [如何查询](#如何查询)
 
-
-:exclamation:***请注意：租赁协议中任何剥夺或放弃 RTA 中规定的租户权利的内容都是无效的。***
+## 租赁协议
+:exclamation:***请注意：租赁协议中任何剥夺或放弃 RTA 中规定的租户权利的内容都是无效的。*** <sup>[出处](https://www.alberta.ca/starting-a-tenancy)</sup>
 
 ### 类型
 
@@ -73,7 +78,7 @@
 
 *即使转租人搬出，转租或转让租赁房屋的租户仍有可能对租约的剩余部分负责，并可以选择就其责任寻求法律建议。*
 
-## 租金上涨
+### 租金上涨
 [待完成]
 
 在 Alberta ，租金上涨的幅度是不受限的，**但**：
