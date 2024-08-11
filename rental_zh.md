@@ -1,4 +1,6 @@
 # 租房指南
+更新于 Aug 11 2024
+
 
 ## 简介
 在 Alberta ，多数房屋租赁是适用且受到 [Residential Tenancies Act (RTA)](https://open.alberta.ca/publications/r17p1) 保护的。本指南将侧重于受 RTA 保护的情况。
@@ -62,7 +64,7 @@
 
 押金不得因租金上涨或租赁期间的任何其他原因而增加。
 
-## 转移
+### 转移
 
 租客可以在获得房东书面同意的情况下将其出租房屋转租或转让给他人。租赁协议应由转租人和租客签署。**房东不得无合理理由拒绝许可**，并且必须在收到书面请求后 14 天内以书面形式向租客说明理由。
 
@@ -70,10 +72,89 @@
 
 *即使转租人搬出，转租或转让租赁房屋的租户仍有可能对租约的剩余部分负责，并可以选择就其责任寻求法律建议。*
 
-# 租金上涨
+## 租金上涨
+[待完成]
+
 在 Alberta ，租金上涨的幅度是不受限的，**但**：
 
 不能在上次涨价或租约开始一年（ 365 天）内（以较晚的为准）再次上涨。
 
 如果第 365 天包含在固定期限的租约内，则在租约结束前不能上涨
 
+## 房东信息
+
+要查找房产所有权，最简单可靠的方法是结合 [Edmonton Maps](https://maps.edmonton.ca/) 和 [Alberta Land Titles and Surveys Spatial Information System (Spin2)](https://alta.registries.gov.ab.ca/) 来完成查询。[Spin2](https://alta.registries.gov.ab.ca/) 的每次查询费用为 10 CAD。
+
+*注意：[Spin2](https://alta.registries.gov.ab.ca/) 系统是存在工作时间的 (虽然我也不清楚为什么一个自动化系统会有工作时间lmao)*
+
+### 如何查询？
+1.  确认房产的地址
+
+2.  访问 [SLIM Maps](https://maps.edmonton.ca/map.aspx) (或访问 [Edmonton Maps](https://maps.edmonton.ca/) 并点击 `Address Lookup`)
+
+    ![](SLIM_0.png)
+
+
+
+3. 输入你的地址，以 Edmonton 市政厅举例：
+
+    Edmonton 市政厅的地址是：
+
+    1 Sir Winston Churchill Square
+
+    `House number` 即为 1
+
+    `Street or Avenue Name` 即为 Sir Winston Churchill Square
+
+    输入所有信息，自动补全 `Street or Avenue Name` 后点击 `Find Address`
+
+    ![](SLIM_1.png)
+
+    搜索完成后结果会出现在下面的 `Results` Tab 中，在右侧的 `General` Tab 中找到 Legal Description for Title Lot（这里是 Plan 4390NY Blk C），记下来
+
+4.  访问 [Spin2](https://alta.registries.gov.ab.ca/)， 选择Guest Login
+
+    - 4.1 ![](SPIN_0.png)
+
+    - 4.2 ![](SPIN_1.png)
+    
+    - 4.3 ![](SPIN_2.png)
+
+    - 4.4 ![](SPIN_3.png)
+
+    - 4.5 ![](SPIN_4.png)
+    
+    - 4.6
+    
+        在 `Plan` / `Block/Unit` / `Lot` 中填入前面记下来的
+
+            Plan 即为 4390NY
+
+            Block/Unit 即为 C
+
+            因为前面并没有 Lot ， 故置空
+
+        点击 `Search`
+
+        ![](SPIN_5.png)
+
+    - 4.7
+
+        查找到对应地块后，按箭头顺序将该地块的注册书添加至购物车，并点击购物车查看
+
+        ![](SPIN_6.png)
+
+    - 4.8
+
+        结算
+        
+        ![](SPIN_7.png)
+
+
+    - 4.9
+
+        确认信息，填入正确的邮箱并结算
+
+        ![](SPIN_8.png)
+
+当完成以上步骤后，你会在邮箱中看到一份包含地块注册书的邮件。可以通过比对其中 Owner 的姓名来确认房产的所有权。
